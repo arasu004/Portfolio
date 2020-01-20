@@ -1,0 +1,140 @@
+body{
+	background: black;
+}
+
+.navbar{
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	font-family: "Times New Roman";
+	padding-left: 50px;
+}
+
+.card {
+	border-radius: 20px;
+	background-color: grey;
+}
+
+.card-header{
+	border-radius: 25px;
+	text-align: center;
+	color: #9DCF49;
+}
+
+#brief{
+	text-indent:60px;
+	text-align: justify;
+}
+
+
+#profilepicture{
+	position:absolute;
+	left: 2.5%;
+	top: 120px;
+	background-color:white;
+}
+
+#contact{
+	position:relative;
+	top: 50px;
+	left: 5%;
+	color:white;
+}
+#summary{
+	top: 60px;
+	position:relative;
+	background-color: #034981;
+	border-radius: 20px;
+	padding: 10px;
+	color: white;
+}
+
+#addresse{
+	position:absolute;
+	top: 60%;
+	right: 5.5%;
+	color:white;	
+}
+
+#cards{
+	border-radius: 20px;
+	background-color: #034981;
+	color: yellow;
+	width: 92.5%;
+	margin-left:48px;
+	text-align: center;
+}
+
+#experience{
+	width:100%;
+	background-color: grey;
+}
+
+#education{
+	border-radius: 20px;
+	background-color: #957194;
+	padding: 10px 50px;
+}
+
+#sathyabama{
+	background-color: #013639;
+	color: white;	
+}
+
+#anna{
+	background-color: #013639;
+	color: white;
+}
+
+#eduid{
+	text-align: center;
+	width: 100%;
+	background-color:#013639;
+	color: white;
+}
+
+#skill{
+	border-radius: 20px;
+	width: 90.5%;
+	margin-left: 60px;
+	background-color: #010838;
+	text-align: center;
+	color: white;
+}
+
+#row-skill{
+	text-align: center;
+	color: blue;
+	font-size:16px;
+}
+
+#samplecard{
+	width:100px;
+	height:100px;
+}
+
+#cardref {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+}
+
+#reference{
+  padding: 2px 16px;
+}
+
+#refglyphicon{
+	font-size:100px;
+	padding-top: 8px;
+}
+
+#refcontainer{
+	border-radius: 20px;
+	text-align: center;
+	color: #D3C2CE;
+	background-color: #290984;
+}
+
+a{
+	color: #99A409;
+}
